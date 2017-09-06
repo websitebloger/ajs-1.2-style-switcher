@@ -1,0 +1,13 @@
+body {
+    background-color: #ffe0cc;
+    color: #331400;
+}
+
+h1, h2 {
+    color: #993D00;
+}
+
+#menu li a {
+    background-color:#D65600;
+    color: #fff;
+}

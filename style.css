@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 1em;
+}
+
+h1 {
+    margin: 0;
+    padding: 0.5em 0;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+#menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu li {
+    margin-bottom: 2px;
+}
+
+#menu li a {
+    display: block;
+    background-color:cadetblue;
+    padding: 0.5em;
+    color: #fff;
+    text-decoration: none;
+}
